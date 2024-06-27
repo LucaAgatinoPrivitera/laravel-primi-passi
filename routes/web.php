@@ -14,5 +14,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('altro');
+    // return view('welcome'); quindi basta cambiare il nome fino al primo punto? Da chiedere
 });

@@ -18,7 +18,7 @@
         <h1>Hello world!</h1>
         <?= "<h2>" . $prova . "</h2>" ?>
         <h2>Qui ci troviamo nel BONUS</h2>
-        <a href="./welcome.blade.php">Torna al basic, OPS non funziona</a>
+        <a href="/prova1">Torna al basic, OPS non funziona</a>
         <!-- Da chiedere -->
     </div>
 </body>
